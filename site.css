@@ -142,7 +142,7 @@
     border: 0;
     }
 
-@media screen and (max-width:1265px){
+@media screen and (max-width:1500px){
     #banner{width:1200px; height: 350px; background-color: #F8EABD; display: grid; grid-template-columns: 30% 70%; justify-self: center; border-radius: 20px; margin-top: 120px; margin-left: 94px; margin-right: 94px;} 
     #cardsContainer{
         margin-left: 40px;
